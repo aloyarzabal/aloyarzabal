@@ -19,7 +19,7 @@ Know more about me:
 
 - ⚡ Projects:
 
-  1️⃣ <b> *Customer management system* </b>.<a href="https://github.com/aloyarzabal/React-vip-customers-management">(here) </a> Full project in **React**, managing a customer database (Directus) with a CMS Headless (Vercel).
+  1️⃣ <b> *Customer management system* </b>.<a href="https://github.com/aloyarzabal/React-vip-customers-management">(here) </a> Full project in **React**, using all basic hooks, managing a customer database (Directus) with a CMS Headless (Vercel).
   
   2️⃣ <b>*Javascript projects*</b>. <a href="https://github.com/aloyarzabal/javascriptProjects">(here) </a> Collection of all the Javascript projects created during my studying process.
   
