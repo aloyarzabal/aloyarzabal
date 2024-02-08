@@ -3,8 +3,7 @@
 
 
 Know more about me:
-- 🔭 I’m currently working as a **Technical Support Engineer** in **Infor**. The languages I deal with are: SQL, C# and Javascript.
-- 🌱 I’m currently learning **Typescript and React**.
+- 🔭 I’m currently working as a **Software Developer** in **Smartbear**. The technologies I deal with are: Typescript, React and Styled components.
 - 💬 Let's talk about web development, **HTML, CSS and Javascript**!
 - 📫 How to reach me: https://www.linkedin.com/in/adolfolopezoyarzabal/
 - 📚 Courses in Udemy:
