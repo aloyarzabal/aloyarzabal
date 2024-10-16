@@ -18,10 +18,6 @@ Know more about me:
 
 - ⚡ Projects:
 
-  1️⃣ <b> *Customer management system* </b>.<a href="https://github.com/aloyarzabal/React-vip-customers-management">(here) </a> Full project in **React**, using all basic hooks, managing a customer database (Directus) with a CMS Headless (Vercel).
+  1️⃣ <b> *Expenses management system* </b>.<a href="https://github.com/aloyarzabal/goal-tracker">(here) </a> Full project in **React**, **Typescript**, **Styled Components**, **Supabase** for the backend.
   
   2️⃣ <b>*Javascript projects*</b>. <a href="https://github.com/aloyarzabal/javascriptProjects">(here) </a> Collection of all the Javascript projects created during my studying process.
-  
-  3️⃣ <b>*Vademagia.com*</b>. <a href="https://www.vademagia.com/">(here) </a> Personal website created with Wordpress, CSS & HTML. Using SEO concepts learn in other courses.
-  
-  4️⃣ <b>*ManantialNatural.com*</b>. <a href="http://manantialnatural.com/">(here) </a> Web for a customer with a little store in Barcelona.
