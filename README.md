@@ -1,5 +1,7 @@
 <h2 align="center"> Hello! 👋 This is Adolfo's profile </h2>
 <h3 align="center"> Software engineer passionate in Frontend </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloyarzabal&label=Profile%20views&color=ffa629&style=plastic" alt="aloyarzabal" /> </p>
+
 
 
 <h3 align="left">Know more about me:</h3>
